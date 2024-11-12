@@ -10,4 +10,5 @@ I'm a Cybersecurity Specialist with a strong interest in learning. I've earned c
 
  Contact me:
  
- Linkedin (https://www.linkedin.com/in/fahad-alfaifi) 
+ - [Linkedin](https://www.linkedin.com/in/fahad-alfaifi)
+
