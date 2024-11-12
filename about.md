@@ -1,5 +1,5 @@
 ---
-title: Colophon
+title: ME
 permalink: /about/
 layout: page
 excerpt: 
